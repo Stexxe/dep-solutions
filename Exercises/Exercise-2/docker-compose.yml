@@ -9,4 +9,4 @@ services:
     image: "exercise-2"
     volumes:
       - .:/app
-    command: python3 main.py
+    command: python3 main.py 2021 "2024-01-19 10:25"
